@@ -1,0 +1,16 @@
+C:\Users\arsen\OneDrive\Рабочий стол\DemoGit\Test_Git\Test_Git\bin\Debug\Test_Git.exe.config
+C:\Users\arsen\OneDrive\Рабочий стол\DemoGit\Test_Git\Test_Git\bin\Debug\Test_Git.exe
+C:\Users\arsen\OneDrive\Рабочий стол\DemoGit\Test_Git\Test_Git\bin\Debug\Test_Git.pdb
+C:\Users\arsen\OneDrive\Рабочий стол\DemoGit\Test_Git\Test_Git\obj\Debug\Test_Git.csproj.AssemblyReference.cache
+C:\Users\arsen\OneDrive\Рабочий стол\DemoGit\Test_Git\Test_Git\obj\Debug\Test_Git.csproj.SuggestedBindingRedirects.cache
+C:\Users\arsen\OneDrive\Рабочий стол\DemoGit\Test_Git\Test_Git\obj\Debug\MainWindow.g.cs
+C:\Users\arsen\OneDrive\Рабочий стол\DemoGit\Test_Git\Test_Git\obj\Debug\App.g.cs
+C:\Users\arsen\OneDrive\Рабочий стол\DemoGit\Test_Git\Test_Git\obj\Debug\Test_Git_MarkupCompile.cache
+C:\Users\arsen\OneDrive\Рабочий стол\DemoGit\Test_Git\Test_Git\obj\Debug\Test_Git_MarkupCompile.lref
+C:\Users\arsen\OneDrive\Рабочий стол\DemoGit\Test_Git\Test_Git\obj\Debug\MainWindow.baml
+C:\Users\arsen\OneDrive\Рабочий стол\DemoGit\Test_Git\Test_Git\obj\Debug\Test_Git.g.resources
+C:\Users\arsen\OneDrive\Рабочий стол\DemoGit\Test_Git\Test_Git\obj\Debug\Test_Git.Properties.Resources.resources
+C:\Users\arsen\OneDrive\Рабочий стол\DemoGit\Test_Git\Test_Git\obj\Debug\Test_Git.csproj.GenerateResource.cache
+C:\Users\arsen\OneDrive\Рабочий стол\DemoGit\Test_Git\Test_Git\obj\Debug\Test_Git.csproj.CoreCompileInputs.cache
+C:\Users\arsen\OneDrive\Рабочий стол\DemoGit\Test_Git\Test_Git\obj\Debug\Test_Git.exe
+C:\Users\arsen\OneDrive\Рабочий стол\DemoGit\Test_Git\Test_Git\obj\Debug\Test_Git.pdb
